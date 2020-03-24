@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.Hello mister faggot.
+          Edit <code>src/App.js</code> I am on the feature branch
         </p>
         <a
           className="App-link"
@@ -25,5 +25,3 @@ function App() {
 
 export default App;
 
-//    script:
-//      - docker run -e CI=true USERNAME/docker-react npm run test
