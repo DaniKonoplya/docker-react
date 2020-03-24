@@ -24,3 +24,6 @@ function App() {
 }
 
 export default App;
+
+//    script:
+//      - docker run -e CI=true USERNAME/docker-react npm run test
